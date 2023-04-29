@@ -1,0 +1,25 @@
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi2\obj\Debug\netcoreapp3.0\Assi2.csprojAssemblyReference.cache
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi2\obj\Debug\netcoreapp3.0\Assi2.AssemblyInfoInputs.cache
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi2\obj\Debug\netcoreapp3.0\Assi2.AssemblyInfo.cs
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi2\bin\Debug\netcoreapp3.0\Assi2.exe
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi2\bin\Debug\netcoreapp3.0\Assi2.deps.json
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi2\bin\Debug\netcoreapp3.0\Assi2.runtimeconfig.json
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi2\bin\Debug\netcoreapp3.0\Assi2.runtimeconfig.dev.json
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi2\bin\Debug\netcoreapp3.0\Assi2.dll
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi2\bin\Debug\netcoreapp3.0\Assi2.pdb
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi2\obj\Debug\netcoreapp3.0\Assi2.dll
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi2\obj\Debug\netcoreapp3.0\Assi2.pdb
+C:\Users\jinse\Downloads\SeolanJin_Project_2_v2\Project_2\bin\Debug\netcoreapp3.0\Assi2.exe
+C:\Users\jinse\Downloads\SeolanJin_Project_2_v2\Project_2\bin\Debug\netcoreapp3.0\Assi2.deps.json
+C:\Users\jinse\Downloads\SeolanJin_Project_2_v2\Project_2\bin\Debug\netcoreapp3.0\Assi2.runtimeconfig.json
+C:\Users\jinse\Downloads\SeolanJin_Project_2_v2\Project_2\bin\Debug\netcoreapp3.0\Assi2.runtimeconfig.dev.json
+C:\Users\jinse\Downloads\SeolanJin_Project_2_v2\Project_2\bin\Debug\netcoreapp3.0\Assi2.dll
+C:\Users\jinse\Downloads\SeolanJin_Project_2_v2\Project_2\bin\Debug\netcoreapp3.0\Assi2.pdb
+C:\Users\jinse\Downloads\SeolanJin_Project_2_v2\Project_2\obj\Debug\netcoreapp3.0\Assi2.csproj.AssemblyReference.cache
+C:\Users\jinse\Downloads\SeolanJin_Project_2_v2\Project_2\obj\Debug\netcoreapp3.0\Assi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jinse\Downloads\SeolanJin_Project_2_v2\Project_2\obj\Debug\netcoreapp3.0\Assi2.AssemblyInfoInputs.cache
+C:\Users\jinse\Downloads\SeolanJin_Project_2_v2\Project_2\obj\Debug\netcoreapp3.0\Assi2.AssemblyInfo.cs
+C:\Users\jinse\Downloads\SeolanJin_Project_2_v2\Project_2\obj\Debug\netcoreapp3.0\Assi2.csproj.CoreCompileInputs.cache
+C:\Users\jinse\Downloads\SeolanJin_Project_2_v2\Project_2\obj\Debug\netcoreapp3.0\Assi2.dll
+C:\Users\jinse\Downloads\SeolanJin_Project_2_v2\Project_2\obj\Debug\netcoreapp3.0\Assi2.pdb
+C:\Users\jinse\Downloads\SeolanJin_Project_2_v2\Project_2\obj\Debug\netcoreapp3.0\Assi2.genruntimeconfig.cache

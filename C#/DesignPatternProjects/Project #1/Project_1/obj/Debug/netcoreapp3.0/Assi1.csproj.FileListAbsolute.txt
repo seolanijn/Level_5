@@ -1,0 +1,14 @@
+C:\$$W2023,INFO5125\Project_1\bin\Debug\netcoreapp3.0\Assi1.exe
+C:\$$W2023,INFO5125\Project_1\bin\Debug\netcoreapp3.0\Assi1.deps.json
+C:\$$W2023,INFO5125\Project_1\bin\Debug\netcoreapp3.0\Assi1.runtimeconfig.json
+C:\$$W2023,INFO5125\Project_1\bin\Debug\netcoreapp3.0\Assi1.runtimeconfig.dev.json
+C:\$$W2023,INFO5125\Project_1\bin\Debug\netcoreapp3.0\Assi1.dll
+C:\$$W2023,INFO5125\Project_1\bin\Debug\netcoreapp3.0\Assi1.pdb
+C:\$$W2023,INFO5125\Project_1\obj\Debug\netcoreapp3.0\Assi1.csproj.AssemblyReference.cache
+C:\$$W2023,INFO5125\Project_1\obj\Debug\netcoreapp3.0\Assi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\$$W2023,INFO5125\Project_1\obj\Debug\netcoreapp3.0\Assi1.AssemblyInfoInputs.cache
+C:\$$W2023,INFO5125\Project_1\obj\Debug\netcoreapp3.0\Assi1.AssemblyInfo.cs
+C:\$$W2023,INFO5125\Project_1\obj\Debug\netcoreapp3.0\Assi1.csproj.CoreCompileInputs.cache
+C:\$$W2023,INFO5125\Project_1\obj\Debug\netcoreapp3.0\Assi1.dll
+C:\$$W2023,INFO5125\Project_1\obj\Debug\netcoreapp3.0\Assi1.pdb
+C:\$$W2023,INFO5125\Project_1\obj\Debug\netcoreapp3.0\Assi1.genruntimeconfig.cache
