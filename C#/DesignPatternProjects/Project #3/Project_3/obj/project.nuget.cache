@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sUEAAREOkn1u5TZHNqkRm9t2Cr3Io7sY+hAAvuTlPt7qlOaIkQjY2vOrPMvJIXLLDGSXbEGIAZOvEg8C6ZOVaQ==",
+  "success": true,
+  "projectFilePath": "C:\\$$W2023,INFO5125\\Project_3\\Assi3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jinse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\jinse\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\jinse\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\jinse\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

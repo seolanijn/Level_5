@@ -1,0 +1,11 @@
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi3\bin\Release\netcoreapp3.0\Assi3.exe
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi3\bin\Release\netcoreapp3.0\Assi3.deps.json
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi3\bin\Release\netcoreapp3.0\Assi3.runtimeconfig.json
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi3\bin\Release\netcoreapp3.0\Assi3.runtimeconfig.dev.json
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi3\bin\Release\netcoreapp3.0\Assi3.dll
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi3\bin\Release\netcoreapp3.0\Assi3.pdb
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi3\obj\Release\netcoreapp3.0\Assi3.csprojAssemblyReference.cache
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi3\obj\Release\netcoreapp3.0\Assi3.AssemblyInfoInputs.cache
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi3\obj\Release\netcoreapp3.0\Assi3.AssemblyInfo.cs
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi3\obj\Release\netcoreapp3.0\Assi3.dll
+C:\fanshawe\Fall 2019\INFO-5125\Assignments\Assi3\obj\Release\netcoreapp3.0\Assi3.pdb
