@@ -1,0 +1,11 @@
+import { config } from "dotenv";
+config();
+export const isourl = process.env.ISOCOUNTRIES;
+export const alerturl = process.env.TRAVELALERTS;
+export const atlas = process.env.DBURL;
+export const appdb = process.env.DB;
+export const coll = process.env.COLLECTION;
+export const alertColl = process.env.ALERTCOLLECTION;
+export const advColl = process.env.ADVISORYCOLLECTION;
+export const port = process.env.PORT;
+export const graphql = process.env.GRAPHQLURL;
