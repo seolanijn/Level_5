@@ -1,0 +1,68 @@
+﻿<Window x:Class="CatchMindGUIClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CatchMindGUIClient"
+        mc:Ignorable="d"
+        Title="CatchMind" Background="#FFCDE0E2" Height="720" Width="1065" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" Closing="Window_Closing">
+    <Grid>
+        <Grid Margin="21,23,39,625">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="185*"/>
+                <ColumnDefinition Width="22*"/>
+                <ColumnDefinition Width="783*"/>
+            </Grid.ColumnDefinitions>
+            <Label x:Name="score" Content="Goal Score: 3" Background="#FF93A0AF" BorderThickness="2,2,2,2" BorderBrush="White" FontFamily="Arial Black" FontWeight="Normal" FontSize="16" Foreground="#FFFBFBFB" />
+            <Label x:Name="sharedGameState" Content="Information" BorderThickness="2,2,2,2" BorderBrush="White" Background="#FF93A0AF" FontFamily="Arial" FontSize="14" Foreground="White" Grid.Column="2"/>
+        </Grid>
+        <Canvas x:Name="drawingCanvas" MouseDown="drawingCanvas_MouseDown" MouseMove="drawingCanvas_MouseMove" MouseUp="drawingCanvas_MouseUp" Margin="230,76,39,76" Background="White" />
+        <GroupBox Header="Players" HorizontalAlignment="Left" Height="544" Margin="21,64,0,0" VerticalAlignment="Top" Width="186" Foreground="White" FontSize="18" BorderThickness="2,2,2,2">
+            <Grid HorizontalAlignment="Center" Height="549" VerticalAlignment="Center" Width="174">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="48*"/>
+                    <ColumnDefinition Width="5*"/>
+                    <ColumnDefinition Width="34*"/>
+                </Grid.ColumnDefinitions>
+                <Label x:Name="User1Name" Content="Player 1" HorizontalAlignment="Center" Height="50" VerticalAlignment="Center" Width="76" Foreground="White" FontSize="16" FontFamily="Arial Narrow" FontWeight="Normal"/>
+                <Label x:Name="User2Name" Content="Empty" HorizontalAlignment="Center" Height="50" VerticalAlignment="Center" Width="76" Grid.Row="1" Foreground="White" FontSize="16" FontFamily="Arial Narrow" FontWeight="Normal"/>
+                <Label x:Name="User3Name" Content="Empty" HorizontalAlignment="Center" Height="50" VerticalAlignment="Center" Width="76" Grid.Row="2" Foreground="White" FontSize="16" FontFamily="Arial Narrow" FontWeight="Normal"/>
+                <Label x:Name="User4Name" Content="Empty" HorizontalAlignment="Center" Height="50" VerticalAlignment="Center" Width="76" Grid.Row="3" Foreground="White" FontSize="16" FontFamily="Arial Narrow" FontWeight="Normal"/>
+                <Label x:Name="User1Score" Content="0" Grid.Column="2" HorizontalAlignment="Center" Height="50" VerticalAlignment="Center" Width="56"  BorderBrush="{x:Null}" Background="{x:Null}" Foreground="White" FontFamily="Arial Black" FontSize="20"/>
+                <Label x:Name="User2Score" Content="0" Grid.Column="2" HorizontalAlignment="Center" Height="50" VerticalAlignment="Center" Width="56" Grid.Row="1" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="White" FontFamily="Arial Black" FontSize="20"/>
+                <Label x:Name="User3Score" Content="0" Grid.Column="2" HorizontalAlignment="Center" Height="50" VerticalAlignment="Center" Width="56" Grid.Row="2" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="White" FontFamily="Arial Black" FontSize="20"/>
+                <Label x:Name="User4Score" Content="0" Grid.Column="2" HorizontalAlignment="Center" Height="50" VerticalAlignment="Center" Width="56" Grid.Row="3" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="White" FontFamily="Arial Black" FontSize="20"/>
+            </Grid>
+        </GroupBox>
+        <TextBox x:Name="wordTextBox"  TextWrapping="Wrap" Text="" Margin="21,626,843,19" BorderThickness="2,2,2,2" BorderBrush="#FF93A0AF" Background="#FFEAEAEA" FontSize="16"/>
+        <Button x:Name="btnSubmit" Click="btnSubmit_Click" Content="Submit" Margin="212,626,783,19" Background="#FF93A0AF" BorderBrush="White" FontFamily="Arial Black" Foreground="White" BorderThickness="2,2,2,2"/>
+        <Grid Margin="282,626,39,19">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="93*"/>
+                <ColumnDefinition Width="93*"/>
+                <ColumnDefinition Width="93*"/>
+                <ColumnDefinition Width="27*"/>
+                <ColumnDefinition Width="99*"/>
+                <ColumnDefinition Width="45*"/>
+                <ColumnDefinition Width="99*"/>
+                <ColumnDefinition Width="45*"/>
+                <ColumnDefinition Width="99*"/>
+            </Grid.ColumnDefinitions>
+            <RadioButton Content="Red" Checked="redRadioBtn_Click" HorizontalAlignment="Center" VerticalAlignment="Center" Height="15" Width="56" Background="Red" Foreground="Red" FontFamily="Arial Black" FontSize="14" />
+            <RadioButton Content="Blue" Checked="blueRadioBtn_Click" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Height="15" Width="72" Foreground="Blue" Background="Blue" FontFamily="Arial Black" FontSize="14"/>
+            <RadioButton Content="Black" Checked="blackRadioBtn_Click" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Height="15" Width="64" Background="Black" FontFamily="Arial Black" FontSize="14"/>
+            <Button x:Name="btnDraw" Content="Draw" Grid.Column="4" Click="btnDraw_Click" Background="#FF93A0AF" BorderBrush="White" FontFamily="Arial Black" Foreground="White" BorderThickness="2,2,2,2"/>
+            <Button x:Name="btnRemove" Content="Remove" Grid.Column="6" Click="btnRemove_Click" Background="#FF93A0AF" BorderBrush="White" FontFamily="Arial Black" Foreground="White" BorderThickness="2,2,2,2"/>
+            <Button x:Name="btnClear" Content="Clear" Grid.Column="8" Click="btnClear_Click" Background="#FF93A0AF" BorderBrush="White" FontFamily="Arial Black" Foreground="White" BorderThickness="2,2,2,2"/>
+        </Grid>
+        <Label x:Name="User1Drawer" Content="(Drawer)" HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="76" Foreground="White" FontSize="16" FontFamily="Arial Narrow" FontWeight="Normal" Margin="34,134,0,0"/>
+    </Grid>
+
+
+</Window>

@@ -1,0 +1,6 @@
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsLibrary\bin\Debug\CardsLibrary.dll
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsLibrary\bin\Debug\CardsLibrary.pdb
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsLibrary\obj\Debug\CardsLibrary.csproj.AssemblyReference.cache
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsLibrary\obj\Debug\CardsLibrary.csproj.CoreCompileInputs.cache
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsLibrary\obj\Debug\CardsLibrary.dll
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsLibrary\obj\Debug\CardsLibrary.pdb

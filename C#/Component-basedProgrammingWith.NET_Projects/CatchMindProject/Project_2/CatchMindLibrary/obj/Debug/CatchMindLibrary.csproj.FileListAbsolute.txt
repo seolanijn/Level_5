@@ -1,0 +1,36 @@
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsLibrary\bin\Debug\CatchMindLibrary.dll
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsLibrary\bin\Debug\CatchMindLibrary.pdb
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsLibrary\obj\Debug\CatchMindLibrary.csproj.AssemblyReference.cache
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsLibrary\obj\Debug\CatchMindLibrary.csproj.CoreCompileInputs.cache
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsLibrary\obj\Debug\CatchMindLibrary.dll
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsLibrary\obj\Debug\CatchMindLibrary.pdb
+C:\$$W2023,INFO5060\Project_2_Seolan\CatchMindLibrary\bin\Debug\CatchMindLibrary.dll
+C:\$$W2023,INFO5060\Project_2_Seolan\CatchMindLibrary\bin\Debug\CatchMindLibrary.pdb
+C:\$$W2023,INFO5060\Project_2_Seolan\CatchMindLibrary\obj\Debug\CatchMindLibrary.csproj.AssemblyReference.cache
+C:\$$W2023,INFO5060\Project_2_Seolan\CatchMindLibrary\obj\Debug\CatchMindLibrary.csproj.CoreCompileInputs.cache
+C:\$$W2023,INFO5060\Project_2_Seolan\CatchMindLibrary\obj\Debug\CatchMindLibrary.dll
+C:\$$W2023,INFO5060\Project_2_Seolan\CatchMindLibrary\obj\Debug\CatchMindLibrary.pdb
+C:\$$W2023,INFO5060\Project_2_SeolanGUI\CatchMindLibrary\obj\Debug\CatchMindLibrary.csproj.AssemblyReference.cache
+C:\$$W2023,INFO5060\Project_2_SeolanGUI\CatchMindLibrary\obj\Debug\CatchMindLibrary.csproj.CoreCompileInputs.cache
+C:\$$W2023,INFO5060\Project_2_SeolanGUI\CatchMindLibrary\obj\Debug\CatchMindLibrary.dll
+C:\$$W2023,INFO5060\Project_2_SeolanGUI\CatchMindLibrary\obj\Debug\CatchMindLibrary.pdb
+C:\$$W2023,INFO5060\Project_2_SeolanGUI\CatchMindLibrary\bin\Debug\CatchMindLibrary.dll
+C:\$$W2023,INFO5060\Project_2_SeolanGUI\CatchMindLibrary\bin\Debug\CatchMindLibrary.pdb
+C:\Users\rlatn\Desktop\Project2\ComponentProject2\Group23_Project_2_v2\CatchMindLibrary\bin\Debug\CatchMindLibrary.dll
+C:\Users\rlatn\Desktop\Project2\ComponentProject2\Group23_Project_2_v2\CatchMindLibrary\bin\Debug\CatchMindLibrary.pdb
+C:\Users\rlatn\Desktop\Project2\ComponentProject2\Group23_Project_2_v2\CatchMindLibrary\obj\Debug\CatchMindLibrary.csproj.AssemblyReference.cache
+C:\Users\rlatn\Desktop\Project2\ComponentProject2\Group23_Project_2_v2\CatchMindLibrary\obj\Debug\CatchMindLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rlatn\Desktop\Project2\ComponentProject2\Group23_Project_2_v2\CatchMindLibrary\obj\Debug\CatchMindLibrary.dll
+C:\Users\rlatn\Desktop\Project2\ComponentProject2\Group23_Project_2_v2\CatchMindLibrary\obj\Debug\CatchMindLibrary.pdb
+C:\$$W2023,INFO5060\Project_2_v4\ComponentProject2\Group23_Project_2_v2\CatchMindLibrary\bin\Debug\CatchMindLibrary.dll
+C:\$$W2023,INFO5060\Project_2_v4\ComponentProject2\Group23_Project_2_v2\CatchMindLibrary\bin\Debug\CatchMindLibrary.pdb
+C:\$$W2023,INFO5060\Project_2_v4\ComponentProject2\Group23_Project_2_v2\CatchMindLibrary\obj\Debug\CatchMindLibrary.csproj.AssemblyReference.cache
+C:\$$W2023,INFO5060\Project_2_v4\ComponentProject2\Group23_Project_2_v2\CatchMindLibrary\obj\Debug\CatchMindLibrary.csproj.CoreCompileInputs.cache
+C:\$$W2023,INFO5060\Project_2_v4\ComponentProject2\Group23_Project_2_v2\CatchMindLibrary\obj\Debug\CatchMindLibrary.dll
+C:\$$W2023,INFO5060\Project_2_v4\ComponentProject2\Group23_Project_2_v2\CatchMindLibrary\obj\Debug\CatchMindLibrary.pdb
+C:\Users\rlatn\Desktop\New folder\ComponentProject2\Group23_Project_2_v2\CatchMindLibrary\bin\Debug\CatchMindLibrary.dll
+C:\Users\rlatn\Desktop\New folder\ComponentProject2\Group23_Project_2_v2\CatchMindLibrary\bin\Debug\CatchMindLibrary.pdb
+C:\Users\rlatn\Desktop\New folder\ComponentProject2\Group23_Project_2_v2\CatchMindLibrary\obj\Debug\CatchMindLibrary.csproj.AssemblyReference.cache
+C:\Users\rlatn\Desktop\New folder\ComponentProject2\Group23_Project_2_v2\CatchMindLibrary\obj\Debug\CatchMindLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rlatn\Desktop\New folder\ComponentProject2\Group23_Project_2_v2\CatchMindLibrary\obj\Debug\CatchMindLibrary.dll
+C:\Users\rlatn\Desktop\New folder\ComponentProject2\Group23_Project_2_v2\CatchMindLibrary\obj\Debug\CatchMindLibrary.pdb

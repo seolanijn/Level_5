@@ -1,0 +1,11 @@
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsServiceHost\bin\Debug\CardsServiceHost.exe.config
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsServiceHost\bin\Debug\CardsServiceHost.exe
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsServiceHost\bin\Debug\CardsServiceHost.pdb
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsServiceHost\bin\Debug\CardsLibrary.dll
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsServiceHost\bin\Debug\CardsLibrary.pdb
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsServiceHost\obj\Debug\CardsServiceHost.csproj.AssemblyReference.cache
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsServiceHost\obj\Debug\CardsServiceHost.csproj.SuggestedBindingRedirects.cache
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsServiceHost\obj\Debug\CardsServiceHost.csproj.CoreCompileInputs.cache
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsServiceHost\obj\Debug\CardsServiceHost.csproj.CopyComplete
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsServiceHost\obj\Debug\CardsServiceHost.exe
+C:\$$W2023,INFO5060\Project_2_Seolan\CardsServiceHost\obj\Debug\CardsServiceHost.pdb
