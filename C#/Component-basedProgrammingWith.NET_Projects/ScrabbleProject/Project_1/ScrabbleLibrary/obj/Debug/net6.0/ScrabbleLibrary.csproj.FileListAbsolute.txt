@@ -1,0 +1,15 @@
+C:\$$W2023,INFO5060\Scrabble\ScrabbleLibrary\bin\Debug\net6.0\ScrabbleLibrary.deps.json
+C:\$$W2023,INFO5060\Scrabble\ScrabbleLibrary\bin\Debug\net6.0\ScrabbleLibrary.dll
+C:\$$W2023,INFO5060\Scrabble\ScrabbleLibrary\bin\Debug\net6.0\ScrabbleLibrary.pdb
+C:\$$W2023,INFO5060\Scrabble\ScrabbleLibrary\obj\Debug\net6.0\ScrabbleLibrary.csproj.AssemblyReference.cache
+C:\$$W2023,INFO5060\Scrabble\ScrabbleLibrary\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\$$W2023,INFO5060\Scrabble\ScrabbleLibrary\obj\Debug\net6.0\Interop.Microsoft.Office.Core.dll
+C:\$$W2023,INFO5060\Scrabble\ScrabbleLibrary\obj\Debug\net6.0\ScrabbleLibrary.csproj.ResolveComReference.cache
+C:\$$W2023,INFO5060\Scrabble\ScrabbleLibrary\obj\Debug\net6.0\ScrabbleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\$$W2023,INFO5060\Scrabble\ScrabbleLibrary\obj\Debug\net6.0\ScrabbleLibrary.AssemblyInfoInputs.cache
+C:\$$W2023,INFO5060\Scrabble\ScrabbleLibrary\obj\Debug\net6.0\ScrabbleLibrary.AssemblyInfo.cs
+C:\$$W2023,INFO5060\Scrabble\ScrabbleLibrary\obj\Debug\net6.0\ScrabbleLibrary.csproj.CoreCompileInputs.cache
+C:\$$W2023,INFO5060\Scrabble\ScrabbleLibrary\obj\Debug\net6.0\ScrabbleLibrary.dll
+C:\$$W2023,INFO5060\Scrabble\ScrabbleLibrary\obj\Debug\net6.0\refint\ScrabbleLibrary.dll
+C:\$$W2023,INFO5060\Scrabble\ScrabbleLibrary\obj\Debug\net6.0\ScrabbleLibrary.pdb
+C:\$$W2023,INFO5060\Scrabble\ScrabbleLibrary\obj\Debug\net6.0\ref\ScrabbleLibrary.dll
