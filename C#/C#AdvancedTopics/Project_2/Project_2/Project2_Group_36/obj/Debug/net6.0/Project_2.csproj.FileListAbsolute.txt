@@ -1,0 +1,72 @@
+/Users/jun/Desktop/Project2_C#/Project2_Group_36/Project_2/Project_2/bin/Debug/net6.0/Project_2
+/Users/jun/Desktop/Project2_C#/Project2_Group_36/Project_2/Project_2/bin/Debug/net6.0/Project_2.deps.json
+/Users/jun/Desktop/Project2_C#/Project2_Group_36/Project_2/Project_2/bin/Debug/net6.0/Project_2.runtimeconfig.json
+/Users/jun/Desktop/Project2_C#/Project2_Group_36/Project_2/Project_2/bin/Debug/net6.0/Project_2.dll
+/Users/jun/Desktop/Project2_C#/Project2_Group_36/Project_2/Project_2/bin/Debug/net6.0/Project_2.pdb
+/Users/jun/Desktop/Project2_C#/Project2_Group_36/Project_2/Project_2/bin/Debug/net6.0/ClassLibrary.dll
+/Users/jun/Desktop/Project2_C#/Project2_Group_36/Project_2/Project_2/bin/Debug/net6.0/ClassLibrary.pdb
+/Users/jun/Desktop/Project2_C#/Project2_Group_36/Project_2/Project_2/obj/Debug/net6.0/Project_2.csproj.AssemblyReference.cache
+/Users/jun/Desktop/Project2_C#/Project2_Group_36/Project_2/Project_2/obj/Debug/net6.0/Project_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jun/Desktop/Project2_C#/Project2_Group_36/Project_2/Project_2/obj/Debug/net6.0/Project_2.AssemblyInfoInputs.cache
+/Users/jun/Desktop/Project2_C#/Project2_Group_36/Project_2/Project_2/obj/Debug/net6.0/Project_2.AssemblyInfo.cs
+/Users/jun/Desktop/Project2_C#/Project2_Group_36/Project_2/Project_2/obj/Debug/net6.0/Project_2.csproj.CoreCompileInputs.cache
+/Users/jun/Desktop/Project2_C#/Project2_Group_36/Project_2/Project_2/obj/Debug/net6.0/Project_2.csproj.CopyComplete
+/Users/jun/Desktop/Project2_C#/Project2_Group_36/Project_2/Project_2/obj/Debug/net6.0/Project_2.dll
+/Users/jun/Desktop/Project2_C#/Project2_Group_36/Project_2/Project_2/obj/Debug/net6.0/refint/Project_2.dll
+/Users/jun/Desktop/Project2_C#/Project2_Group_36/Project_2/Project_2/obj/Debug/net6.0/Project_2.pdb
+/Users/jun/Desktop/Project2_C#/Project2_Group_36/Project_2/Project_2/obj/Debug/net6.0/Project_2.genruntimeconfig.cache
+/Users/jun/Desktop/Project2_C#/Project2_Group_36/Project_2/Project_2/obj/Debug/net6.0/ref/Project_2.dll
+C:\$$W2023,INFO5101\Project_2_v1\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.csproj.AssemblyReference.cache
+C:\$$W2023,INFO5101\Project_2_v1\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\$$W2023,INFO5101\Project_2_v1\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.AssemblyInfoInputs.cache
+C:\$$W2023,INFO5101\Project_2_v1\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.AssemblyInfo.cs
+C:\$$W2023,INFO5101\Project_2_v1\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.csproj.CoreCompileInputs.cache
+C:\$$W2023,INFO5101\Project_2_v1\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.dll
+C:\$$W2023,INFO5101\Project_2_v1\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\refint\Project_2.dll
+C:\$$W2023,INFO5101\Project_2_v1\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.pdb
+C:\$$W2023,INFO5101\Project_2_v1\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\Project_2.exe
+C:\$$W2023,INFO5101\Project_2_v1\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\Project_2.deps.json
+C:\$$W2023,INFO5101\Project_2_v1\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\Project_2.runtimeconfig.json
+C:\$$W2023,INFO5101\Project_2_v1\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\Project_2.dll
+C:\$$W2023,INFO5101\Project_2_v1\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\Project_2.pdb
+C:\$$W2023,INFO5101\Project_2_v1\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\ClassLibrary.dll
+C:\$$W2023,INFO5101\Project_2_v1\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\ClassLibrary.pdb
+C:\$$W2023,INFO5101\Project_2_v1\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.csproj.CopyComplete
+C:\$$W2023,INFO5101\Project_2_v1\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.genruntimeconfig.cache
+C:\$$W2023,INFO5101\Project_2_v1\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\ref\Project_2.dll
+C:\Users\rlatn\Desktop\New folder\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.csproj.AssemblyReference.cache
+C:\Users\rlatn\Desktop\New folder\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rlatn\Desktop\New folder\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.AssemblyInfoInputs.cache
+C:\Users\rlatn\Desktop\New folder\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.AssemblyInfo.cs
+C:\Users\rlatn\Desktop\New folder\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.csproj.CoreCompileInputs.cache
+C:\Users\rlatn\Desktop\New folder\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.dll
+C:\Users\rlatn\Desktop\New folder\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\refint\Project_2.dll
+C:\Users\rlatn\Desktop\New folder\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.pdb
+C:\Users\rlatn\Desktop\New folder\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\Project_2.exe
+C:\Users\rlatn\Desktop\New folder\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\Project_2.deps.json
+C:\Users\rlatn\Desktop\New folder\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\Project_2.runtimeconfig.json
+C:\Users\rlatn\Desktop\New folder\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\Project_2.dll
+C:\Users\rlatn\Desktop\New folder\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\Project_2.pdb
+C:\Users\rlatn\Desktop\New folder\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\rlatn\Desktop\New folder\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\rlatn\Desktop\New folder\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.csproj.CopyComplete
+C:\Users\rlatn\Desktop\New folder\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.genruntimeconfig.cache
+C:\Users\rlatn\Desktop\New folder\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\ref\Project_2.dll
+C:\$$W2023,INFO5101\Project_2_v3\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\Project_2.exe
+C:\$$W2023,INFO5101\Project_2_v3\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\Project_2.deps.json
+C:\$$W2023,INFO5101\Project_2_v3\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\Project_2.runtimeconfig.json
+C:\$$W2023,INFO5101\Project_2_v3\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\Project_2.dll
+C:\$$W2023,INFO5101\Project_2_v3\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\Project_2.pdb
+C:\$$W2023,INFO5101\Project_2_v3\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\ClassLibrary.dll
+C:\$$W2023,INFO5101\Project_2_v3\Project2_Group_36\Project_2\Project_2\bin\Debug\net6.0\ClassLibrary.pdb
+C:\$$W2023,INFO5101\Project_2_v3\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.csproj.AssemblyReference.cache
+C:\$$W2023,INFO5101\Project_2_v3\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\$$W2023,INFO5101\Project_2_v3\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.AssemblyInfoInputs.cache
+C:\$$W2023,INFO5101\Project_2_v3\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.AssemblyInfo.cs
+C:\$$W2023,INFO5101\Project_2_v3\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.csproj.CoreCompileInputs.cache
+C:\$$W2023,INFO5101\Project_2_v3\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.csproj.CopyComplete
+C:\$$W2023,INFO5101\Project_2_v3\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.dll
+C:\$$W2023,INFO5101\Project_2_v3\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\refint\Project_2.dll
+C:\$$W2023,INFO5101\Project_2_v3\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.pdb
+C:\$$W2023,INFO5101\Project_2_v3\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\Project_2.genruntimeconfig.cache
+C:\$$W2023,INFO5101\Project_2_v3\Project2_Group_36\Project_2\Project_2\obj\Debug\net6.0\ref\Project_2.dll

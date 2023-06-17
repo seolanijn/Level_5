@@ -1,0 +1,56 @@
+C:\$$W2023,INFO5101\ClassLibrary\Client\bin\Debug\net6.0\Client.exe
+C:\$$W2023,INFO5101\ClassLibrary\Client\bin\Debug\net6.0\Client.deps.json
+C:\$$W2023,INFO5101\ClassLibrary\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\$$W2023,INFO5101\ClassLibrary\Client\bin\Debug\net6.0\Client.dll
+C:\$$W2023,INFO5101\ClassLibrary\Client\bin\Debug\net6.0\Client.pdb
+C:\$$W2023,INFO5101\ClassLibrary\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\$$W2023,INFO5101\ClassLibrary\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\$$W2023,INFO5101\ClassLibrary\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\$$W2023,INFO5101\ClassLibrary\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\$$W2023,INFO5101\ClassLibrary\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\$$W2023,INFO5101\ClassLibrary\Client\obj\Debug\net6.0\Client.dll
+C:\$$W2023,INFO5101\ClassLibrary\Client\obj\Debug\net6.0\refint\Client.dll
+C:\$$W2023,INFO5101\ClassLibrary\Client\obj\Debug\net6.0\Client.pdb
+C:\$$W2023,INFO5101\ClassLibrary\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+C:\$$W2023,INFO5101\ClassLibrary\Client\obj\Debug\net6.0\ref\Client.dll
+C:\$$W2023,INFO5101\ClassLibrary\Client\bin\Debug\net6.0\ClassLibrary.dll
+C:\$$W2023,INFO5101\ClassLibrary\Client\bin\Debug\net6.0\ClassLibrary.pdb
+C:\$$W2023,INFO5101\ClassLibrary\Client\obj\Debug\net6.0\Client.csproj.CopyComplete
+C:\$$W2023,INFO5101\Group25_Project1\Client\bin\Debug\net6.0\Client.exe
+C:\$$W2023,INFO5101\Group25_Project1\Client\bin\Debug\net6.0\Client.deps.json
+C:\$$W2023,INFO5101\Group25_Project1\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\$$W2023,INFO5101\Group25_Project1\Client\bin\Debug\net6.0\Client.dll
+C:\$$W2023,INFO5101\Group25_Project1\Client\bin\Debug\net6.0\Client.pdb
+C:\$$W2023,INFO5101\Group25_Project1\Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\$$W2023,INFO5101\Group25_Project1\Client\bin\Debug\net6.0\ClassLibrary.dll
+C:\$$W2023,INFO5101\Group25_Project1\Client\bin\Debug\net6.0\ClassLibrary.pdb
+C:\$$W2023,INFO5101\Group25_Project1\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\$$W2023,INFO5101\Group25_Project1\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\$$W2023,INFO5101\Group25_Project1\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\$$W2023,INFO5101\Group25_Project1\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\$$W2023,INFO5101\Group25_Project1\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\$$W2023,INFO5101\Group25_Project1\Client\obj\Debug\net6.0\Client.csproj.CopyComplete
+C:\$$W2023,INFO5101\Group25_Project1\Client\obj\Debug\net6.0\Client.dll
+C:\$$W2023,INFO5101\Group25_Project1\Client\obj\Debug\net6.0\refint\Client.dll
+C:\$$W2023,INFO5101\Group25_Project1\Client\obj\Debug\net6.0\Client.pdb
+C:\$$W2023,INFO5101\Group25_Project1\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+C:\$$W2023,INFO5101\Group25_Project1\Client\obj\Debug\net6.0\ref\Client.dll
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\obj\Debug\net6.0\Client.dll
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\obj\Debug\net6.0\ref\Client.dll
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\obj\Debug\net6.0\Client.pdb
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\bin\Debug\net6.0\Client.exe
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\bin\Debug\net6.0\Client.deps.json
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\bin\Debug\net6.0\Client.dll
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\bin\Debug\net6.0\Client.pdb
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\obj\Debug\net6.0\Client.csproj.CopyComplete
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\obj\Debug\net6.0\refint\Client.dll
+C:\Users\user\OneDrive\바탕 화면\Group25_Project1\Group25_Project1\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
