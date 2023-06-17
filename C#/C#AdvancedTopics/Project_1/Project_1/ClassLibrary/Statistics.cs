@@ -350,7 +350,7 @@ namespace ClassLibrary
             double lat2 = cityInfo2.GetLocation().Key;
             double lng2 = cityInfo2.GetLocation().Value;
 
-            string url = $"https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins={lat1},{lng1}&destinations={lat2},{lng2}&key=AIzaSyB_WNpWf1tH0PbA9d8oZA6fJxxiS7mFU6A";
+            string url = $"https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins={lat1},{lng1}&destinations={lat2},{lng2}&key=[apikey]";
             using (HttpClient httpClient = new HttpClient())
             {
                 HttpResponseMessage response = await httpClient.GetAsync(url);

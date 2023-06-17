@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\$$W2023,INFO5101\\Project1_Group_25\\ClassLibrary\\ClassLibrary.csproj": {}
+    "C:\\Level5_HEERE\\Level_5\\C#\\C#AdvancedTopics\\Project_1\\Project_1\\ClassLibrary\\ClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\$$W2023,INFO5101\\Project1_Group_25\\ClassLibrary\\ClassLibrary.csproj": {
+    "C:\\Level5_HEERE\\Level_5\\C#\\C#AdvancedTopics\\Project_1\\Project_1\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\$$W2023,INFO5101\\Project1_Group_25\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Level5_HEERE\\Level_5\\C#\\C#AdvancedTopics\\Project_1\\Project_1\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "C:\\$$W2023,INFO5101\\Project1_Group_25\\ClassLibrary\\ClassLibrary.csproj",
+        "projectPath": "C:\\Level5_HEERE\\Level_5\\C#\\C#AdvancedTopics\\Project_1\\Project_1\\ClassLibrary\\ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\jinse\\.nuget\\packages\\",
-        "outputPath": "C:\\$$W2023,INFO5101\\Project1_Group_25\\ClassLibrary\\obj\\",
+        "outputPath": "C:\\Level5_HEERE\\Level_5\\C#\\C#AdvancedTopics\\Project_1\\Project_1\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.311\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.313\\RuntimeIdentifierGraph.json"
         }
       }
     }
